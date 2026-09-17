@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI CampusPulse – Dynamic Assessment Module
 
 Two connected Next.js pages matching the supplied wireframe concept:
@@ -39,3 +40,6 @@ npm run dev
 - Add admin CRUD for quizzes/questions.
 - Generate actual PDF reports.
 - Add PostgreSQL indexes and analytics dashboards.
+=======
+# AiCampuspulse
+>>>>>>> 6549623dcfd88dbc74639e2cb701a5befe3346f6
